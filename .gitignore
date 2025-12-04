@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pdf
+*.docx
+frontend/assets/*.jpg
+frontend/assets/*.png
