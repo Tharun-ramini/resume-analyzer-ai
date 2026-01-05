@@ -53,7 +53,7 @@ Git & GitHub
 
 VS Code
 
-Setup Instructions
+--Setup Instructions
 1.Clone the Repository
 git clone https://github.com/yourusername/resume-analyzer-ai.git
 cd resume-analyzer-ai
@@ -69,14 +69,26 @@ OPENAI_API_KEY=your_openai_api_key_here
 uvicorn backend.app.main:app --reload
 http://127.0.0.1:8000
 5.Create Frontend
+--
 
-
-API Endpoint
-Analyze Resume
+--API Endpoint
+--Analyze Resume
 POST /resume/analyze-resume
 Form Data:
 --file → Resume file (PDF/DOCX)
 --job_description → Job description text
 
+--Use Cases
+Job seekers optimizing resumes
+ATS compatibility checks
+Resume feedback automation
+Academic & learning projects
 
+--Future Enhancements
+User authentication
+Resume history tracking
+Resume comparison
+PDF report download
+Deployment on cloud platforms
+--
 
