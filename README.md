@@ -1,30 +1,18 @@
-Features
-
+--Features
 Upload resumes in PDF / DOCX format
-
 Enter job description for targeted analysis
-
 Extracts resume text automatically
-
 AI-generated analysis including:
-
 Resume score (ATS-style)
-
 Missing skills
-
 Improvement suggestions
-
 Optimized resume summary
-
 Clean & responsive frontend UI
-
 Secure API key management using .env
-
 Modular backend architecture
 
-Tech Stack
-Backend
-
+--Tech Stack
+--Backend
 Python
 
 FastAPI
@@ -39,7 +27,7 @@ python-multipart
 
 Uvicorn
 
-Frontend
+--Frontend
 
 HTML
 
