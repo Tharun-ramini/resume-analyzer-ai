@@ -12,7 +12,7 @@ Secure API key management using .env
 Modular backend architecture
 
 --Tech Stack
---Backend
+--Backend--
 Python
 
 FastAPI
@@ -27,7 +27,7 @@ python-multipart
 
 Uvicorn
 
---Frontend
+--Frontend--
 
 HTML
 
@@ -41,7 +41,7 @@ Git & GitHub
 
 VS Code
 
---Setup Instructions
+--Setup Instructions--
 1.Clone the Repository
 git clone https://github.com/yourusername/resume-analyzer-ai.git
 cd resume-analyzer-ai
@@ -72,7 +72,7 @@ ATS compatibility checks
 Resume feedback automation
 Academic & learning projects
 
---Future Enhancements
+--Future Enhancements--
 User authentication
 Resume history tracking
 Resume comparison
