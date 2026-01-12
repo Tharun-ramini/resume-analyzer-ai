@@ -16,13 +16,9 @@ Modular backend architecture
 Python
 FastAPI
 OpenAI API
-
 PyPDF2
-
 python-docx
-
 python-multipart
-
 Uvicorn
 
 --Frontend--
