@@ -14,9 +14,7 @@ Modular backend architecture
 --Tech Stack
 --Backend--
 Python
-
 FastAPI
-
 OpenAI API
 
 PyPDF2
