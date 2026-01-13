@@ -22,17 +22,11 @@ python-multipart
 Uvicorn
 
 --Frontend--
-
 HTML
-
 Tailwind CSS
-
 JavaScript
-
 Tools
-
 Git & GitHub
-
 VS Code
 
 --Setup Instructions--
